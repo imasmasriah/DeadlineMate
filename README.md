@@ -1,3 +1,3 @@
-# green_nature
+# DeadlineMate
+Aplikasi manajemen tugas (Flutter) 
 
-A new Flutter project.
