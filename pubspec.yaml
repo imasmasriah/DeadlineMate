@@ -1,0 +1,41 @@
+name: taskflow_app
+description: Aplikasi manajemen tugas dan deadline dengan desain clean dan profesional.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  animate_do: ^3.0.2 
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+  
+  fonts:
+    - family: Poppins 
+      fonts:
+        - asset: assets/font/poppinsregular.ttf 
+          weight: 400 
+        - asset: assets/font/poppinsmedium.ttf
+          weight: 500 
+        - asset: assets/font/poppinssemibold.ttf
+          weight: 600 
+        - asset: assets/font/poppinsbold.ttf
+          weight: 700 
+        - asset: assets/font/poppinsextra.ttf
+          weight: 800 
