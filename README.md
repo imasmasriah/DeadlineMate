@@ -8,6 +8,9 @@ Aplikasi manajemen tugas (Flutter)
 
 <p align="center">
   <img width="250" src="https://github.com/user-attachments/assets/d5479b43-8fac-4f4a-82c5-36aebcb0c08d" />
+</p>
+
+<p align="center">
   <img width="250" src="https://github.com/user-attachments/assets/909aa69c-42e8-4258-98e7-f696b1ccf870" />
 </p>
 
